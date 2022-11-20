@@ -1,0 +1,83 @@
+Feature Id  Importances
+0    revenue_lag1    10.524548
+1   revenue_lag45     6.469996
+2    revenue_lag2     5.022637
+3  num_passengers     3.955617
+4   revenue_lag46     3.637140
+5   revenue_lag23     3.049514
+6   revenue_lag44     2.839983
+7    revenue_lag3     2.779160
+8   revenue_lag47     2.751760
+9    revenue_lag4     2.714886 
+
+       Feature Id  Importances
+0    revenue_lag1    10.524548
+1   revenue_lag45     6.469996
+2    revenue_lag2     5.022637
+3  num_passengers     3.955617
+4   revenue_lag46     3.637140
+5   revenue_lag23     3.049514
+6   revenue_lag44     2.839983
+7    revenue_lag3     2.779160
+8   revenue_lag47     2.751760
+9    revenue_lag4     2.714886 
+
+       Feature Id  Importances
+0    revenue_lag1    10.524548
+1   revenue_lag45     6.469996
+2    revenue_lag2     5.022637
+3  num_passengers     3.955617
+4   revenue_lag46     3.637140
+5   revenue_lag23     3.049514
+6   revenue_lag44     2.839983
+7    revenue_lag3     2.779160
+8   revenue_lag47     2.751760
+9    revenue_lag4     2.714886 
+
+       Feature Id  Importances
+0    revenue_lag1    10.524548
+1   revenue_lag45     6.469996
+2    revenue_lag2     5.022637
+3  num_passengers     3.955617
+4   revenue_lag46     3.637140
+5   revenue_lag23     3.049514
+6   revenue_lag44     2.839983
+7    revenue_lag3     2.779160
+8   revenue_lag47     2.751760
+9    revenue_lag4     2.714886 
+
+       Feature Id  Importances
+0    revenue_lag1    10.524548
+1   revenue_lag45     6.469996
+2    revenue_lag2     5.022637
+3  num_passengers     3.955617
+4   revenue_lag46     3.637140
+5   revenue_lag23     3.049514
+6   revenue_lag44     2.839983
+7    revenue_lag3     2.779160
+8   revenue_lag47     2.751760
+9    revenue_lag4     2.714886 
+
+       Feature Id  Importances
+0    revenue_lag1    10.524548
+1   revenue_lag45     6.469996
+2    revenue_lag2     5.022637
+3  num_passengers     3.955617
+4   revenue_lag46     3.637140
+5   revenue_lag23     3.049514
+6   revenue_lag44     2.839983
+7    revenue_lag3     2.779160
+8   revenue_lag47     2.751760
+9    revenue_lag4     2.714886 
+
+       Feature Id  Importances
+0    revenue_lag1    10.524548
+1   revenue_lag45     6.469996
+2    revenue_lag2     5.022637
+3  num_passengers     3.955617
+4   revenue_lag46     3.637140
+5   revenue_lag23     3.049514
+6   revenue_lag44     2.839983
+7    revenue_lag3     2.779160
+8   revenue_lag47     2.751760
+9    revenue_lag4     2.714886 
